@@ -1,1 +1,3 @@
-# MinecraftMaps
+Pull最新的地圖檔後，
+將資料夾丟到saves資料夾，
+即可在遊戲中選擇該地圖檔遊玩。
