@@ -2050,31 +2050,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "has_quartz": "2024-09-07 01:01:58 +0800"
+      "obsidian": "2024-09-07 00:35:18 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "has_creeper_head": "2024-09-07 01:36:54 +0800"
+      "has_obsidian": "2024-09-07 00:35:18 +0800"
     },
     "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2024-09-07 01:01:58 +0800"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2024-09-07 00:52:32 +0800",
-      "minecraft:soul_sand_valley": "2024-09-07 00:53:23 +0800",
-      "minecraft:basalt_deltas": "2024-09-07 00:46:04 +0800"
-    },
-    "done": false
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -2088,27 +2074,23 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "obsidian": "2024-09-07 00:35:18 +0800"
+      "minecraft:nether_wastes": "2024-09-07 00:52:32 +0800",
+      "minecraft:soul_sand_valley": "2024-09-07 00:53:23 +0800",
+      "minecraft:basalt_deltas": "2024-09-07 00:46:04 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-09-07 01:01:58 +0800"
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "minecraft:recipes/redstone/comparator": {
     "criteria": {
-      "elytra": "2024-09-07 01:53:11 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2024-09-07 01:37:32 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2024-09-07 01:06:10 +0800"
+      "has_quartz": "2024-09-07 01:01:58 +0800"
     },
     "done": true
   },
@@ -2121,24 +2103,6 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-09-07 01:01:58 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2024-09-07 00:35:18 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2024-09-07 01:06:10 +0800"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2024-09-07 01:15:40 +0800"
     },
     "done": true
   },
@@ -2157,6 +2121,114 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-09-07 01:01:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-09-07 01:06:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-09-07 01:06:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-09-07 01:15:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-09-07 01:36:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-09-07 01:37:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-09-07 01:53:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2024-09-10 09:01:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2024-09-10 09:01:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-09-10 09:01:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-10 09:01:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-09-10 09:01:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-09-10 09:01:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-10 09:01:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-09-10 09:01:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-09-10 09:01:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-09-10 09:01:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-09-10 09:01:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-09-12 00:45:21 +0800"
     },
     "done": true
   },
