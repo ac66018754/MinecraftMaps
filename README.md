@@ -7,11 +7,11 @@ Pull最新的地圖檔後，
 建議先安裝模組管理工具兼遊戲啟動器: CurseForge，  
 建立一個1.21.1的設定檔後，  
 安裝以下擴充:  
-[Tab]Modes:
-[Tab][Tab]1. Iris
-[Tab][Tab]2. JEI
-[Tab][Tab]3. Macaw's Bridges
-[Tab][Tab]4. sodium
-[Tab]Shaders:
-[Tab][Tab]1. Complementary Shaders- Unbound
-[Tab][Tab]2. Insanity Shader
+    Modes:  
+        1. Iris  
+        2. JEI  
+        3. Macaw's Bridges  
+        4. sodium  
+    Shaders:  
+    1. Complementary Shaders- Unbound  
+        2. Insanity Shader  
