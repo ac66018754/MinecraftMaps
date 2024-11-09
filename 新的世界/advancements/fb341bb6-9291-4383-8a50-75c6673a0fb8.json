@@ -2728,15 +2728,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+  "mcwbridges:recipes/acacia_bridge_pier": {
     "criteria": {
-      "has_glass": "2024-10-20 05:01:24 +0800"
+      "has_planks": "2024-10-20 00:55:32 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/brick_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-10-20 02:57:05 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-10-20 02:59:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-10-20 04:47:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-10-20 04:47:46 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-10-20 04:53:08 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2024-10-20 04:53:08 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2024-10-20 04:53:08 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2024-10-20 04:53:08 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-10-20 04:53:08 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-10-20 04:53:08 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-10-20 04:54:17 +0800"
     },
     "done": true
   },
   "mcwbridges:recipes/spruce_bridge_pier": {
     "criteria": {
       "has_planks": "2024-10-20 05:01:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 05:01:24 +0800"
     },
     "done": true
   },
@@ -2782,45 +2854,15 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/brick_bridge_stair": {
-    "criteria": {
-      "has_planks": "2024-10-20 02:57:05 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-10-20 05:01:24 +0800"
     },
     "done": true
   },
-  "mcwbridges:recipes/warped_bridge_pier": {
-    "criteria": {
-      "has_planks": "2024-10-20 04:54:17 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2024-10-20 04:47:46 +0800"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
-    "criteria": {
-      "has_planks": "2024-10-20 04:53:08 +0800"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
       "has_planks": "2024-10-20 05:01:24 +0800"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/acacia_log_bridge_stair": {
-    "criteria": {
-      "has_planks": "2024-10-20 02:59:49 +0800"
     },
     "done": true
   },
@@ -2842,24 +2884,6 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/mossy_cobblestone_bridge": {
-    "criteria": {
-      "has_planks": "2024-10-20 04:53:08 +0800"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/mossy_stone_brick_bridge": {
-    "criteria": {
-      "has_planks": "2024-10-20 04:53:08 +0800"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
-    "criteria": {
-      "has_planks": "2024-10-20 04:53:08 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-10-20 05:01:24 +0800"
@@ -2878,27 +2902,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
-    "criteria": {
-      "has_planks": "2024-10-20 04:53:08 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-10-20 05:01:24 +0800"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/acacia_bridge_pier": {
-    "criteria": {
-      "has_planks": "2024-10-20 00:55:32 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2024-10-20 04:47:46 +0800"
     },
     "done": true
   },
@@ -2926,9 +2932,15 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
-      "has_planks": "2024-10-20 04:53:08 +0800"
+      "has_log": "2024-11-09 22:57:03 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2024-11-09 23:00:24 +0800"
     },
     "done": true
   },
